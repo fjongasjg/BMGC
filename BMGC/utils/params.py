@@ -4,7 +4,7 @@ import sys
 
 # argv = sys.argv
 # dataset = argv[1]
-dataset = 'amazon'
+dataset = 'acm-3025'
 
 def acm_3025_params():
     parser = argparse.ArgumentParser()
