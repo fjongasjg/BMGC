@@ -1,9 +1,3 @@
-#! /usr/bin/env python
-# -*- coding: utf-8 -*-
-# vim:fenc=utf-8
-#
-#
-# Distributed under terms of the MIT license.
 
 """
 This is a script for contexual SBM model and its dataset generator.
